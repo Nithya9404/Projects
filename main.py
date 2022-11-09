@@ -32,5 +32,6 @@ cv.imshow('Clever Programmer Face detector', img)
 cv.waitKey()
 
 
+
 print("Code Completed")"""
 
